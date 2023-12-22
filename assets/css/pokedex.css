@@ -1,4 +1,15 @@
 
+#tit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#tit img {
+    border-style: none;
+    height: 3rem;
+}
+
 .pokemons {
     display: grid;
     list-style: none;
