@@ -7,11 +7,9 @@ body{
     background-color: #f6f8fc
 }
 .content {
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
     padding: 1rem;
     background-image:url(../356e5958b76d454192b63bffbd518978.jpg);
-    background-repeat: repeat-x;
 }
 
 
